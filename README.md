@@ -2,6 +2,5 @@
 
 ## ディレクトリ構成
 
-company 会社サイト
-
-ec ECサイト
+* company = 会社サイト
+* ec = ECサイト
